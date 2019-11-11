@@ -6,7 +6,7 @@ Make signs the easy way. Just open up your browser, type in the info and print! 
 
 ## Install
 
-Fork, github pages
+Fork, github pages @ docs folder.
 
 ## License
 Originally made by janesmae, now maintained by jtagcat
