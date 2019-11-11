@@ -1,4 +1,4 @@
-# Signs @ k-space.ee
+# K-Space Signs
 
 Make signs the easy way. Just open up your browser, type in the info and print! Yes, print!
 
@@ -6,8 +6,8 @@ Make signs the easy way. Just open up your browser, type in the info and print! 
 
 ## Install
 
-Easy, install a webserver and put the included index.html and signs.css file into the public webroot directory.
+Fork, github pages
 
 ## License
-
+Originally made by janesmae, now maintained by jtagcat
 [MIT](LICENSE)
